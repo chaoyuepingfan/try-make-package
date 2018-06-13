@@ -9,6 +9,12 @@
             "email": "yangyanhui@yixia.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:chaoyuepingfan/try-make-package.git"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {
     },
